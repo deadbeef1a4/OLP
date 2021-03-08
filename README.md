@@ -4,18 +4,10 @@ The Open Lists Project aims to curate complete, up-to-date, easy to use lists pe
 
 ## Usage
 
-Find the file with the list you need -- they are organized into (hopefully) logically-named directories to make traversal easier. Lists are stored as plain text files with Unix-style line endings (`\n`).
-
----**This is not implemented yet**---
-
-Files can be converted to different formats as required, including JSON, XML, and CSV. To do this, simply run the corresponding shell script found in the root directory with the full path of the filename as the argument.
-
----**End unimplemented feature**---
-
-The main focus is the `list.txt` file in each subdirectory, but alongside these are files which contain notes about the list topic such as formal definitions of what is or is not included. Please note that inclusion or omission of an item is never intended as political commentary on the subject matter. (Un)fortunately, the real world does not always fit neatly into precise categories. In these instances, we adhere to the most broadly-accepted definitions set forth by the relevant authorities, if possible. For example, the list of countries is comprised of sovereign states with either full membership or observer status at the United Nations. Addition or removal of list members is always welcome, provided there is sufficient rationale stated for the change. Most often, this will probably be tiedto some sort of recent event -- a newly-discovered element, or a country that has gained widely-recognized independance, for example. Lists are organized by the most sensible criterion given the subject matter (chronologically, alphabetically, numerically...)
+Lists are stored as plain text files with Unix-style line endings (`\n`) and are grouped into directories (and subdirectories if necessary) according to their subject matter. We try to keep the directory structure as flat as possible while also keeping the number of lists per directory to a reasonable number. Please note that inclusion or omission of an item in a list is never intended as political commentary on the subject matter. (Un)fortunately, the real world does not always fit neatly into precise categories. In these instances, we adhere to the most broadly-accepted definitions set forth by the relevant authorities, if possible. For example, the list of countries is comprised of sovereign states with either full membership or observer status at the United Nations. Addition or removal of list members is always welcome, provided there is sufficient rationale stated for the change. Most often, this will probably be tiedto some sort of recent event -- a newly-discovered element, or a country that has gained widely-recognized independance, for example. Lists are organized by the most sensible criterion given the subject matter (chronologically, alphabetically, numerically...)
 
 ## License
 
 GNU General Public License v3.0 or later
 
-See [COPYING](COPYING) to see the full text.
+See [COPYING](COPYING) for the full text.
