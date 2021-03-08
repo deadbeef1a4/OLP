@@ -4,7 +4,7 @@ The Open Lists Project aims to curate complete, up-to-date, easy to use lists pe
 
 ## Usage
 
-Find the file with the list you need -- they are organized into (hopefully) logically-named directories to make traversal easier. Lists are stored as plain text files with Unix-style line endings (`\n\r`).
+Find the file with the list you need -- they are organized into (hopefully) logically-named directories to make traversal easier. Lists are stored as plain text files with Unix-style line endings (`\n`).
 
 ---**This is not implemented yet**---
 
