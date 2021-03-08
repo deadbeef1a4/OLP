@@ -1,16 +1,6 @@
-# OLP (Open Lists Project)
+# Open Lists Project (OLP)
 
-The Open Lists Project aims to curate complete, up-to-date, easy to use lists pertaining to any topic imaginable. 
-
-## Organization
-
-* politics/
-  * presidents/
-    * US/
-* geography/
-  * states/
-    * US/
-  * countries/
+The Open Lists Project aims to curate complete, up-to-date, easy to use lists pertaining to any topic imaginable. The main author of this project is @deadbeef1a4. You can find them on [Twitter](https://twitter.com/deadbeef1a4) or buy them a [coffee](https://ko-fi.com/deadbeef1a4)!
 
 ## Usage
 
