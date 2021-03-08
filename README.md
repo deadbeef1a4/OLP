@@ -23,3 +23,9 @@ Files can be converted to different formats as required, including JSON, XML, an
 ---**End unimplemented feature**---
 
 The main focus is the `list.txt` file in each subdirectory, but alongside these are files which contain notes about the list topic such as formal definitions of what is or is not included. Please note that inclusion or omission of an item is never intended as political commentary on the subject matter. (Un)fortunately, the real world does not always fit neatly into precise categories. In these instances, we adhere to the most broadly-accepted definitions set forth by the relevant authorities, if possible. For example, the list of countries is comprised of sovereign states with either full membership or observer status at the United Nations. Addition or removal of list members is always welcome, provided there is sufficient rationale stated for the change. Most often, this will probably be tiedto some sort of recent event -- a newly-discovered element, or a country that has gained widely-recognized independance, for example. Lists are organized by the most sensible criterion given the subject matter (chronologically, alphabetically, numerically...)
+
+## License
+
+GNU General Public License v3.0 or later
+
+See [COPYING](COPYING) to see the full text.
